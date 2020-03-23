@@ -1,0 +1,3 @@
+t'as "yunohost app map --json --raw" et "yunohost app info $app_id --json --raw" qui devraient t'aider
+/etc/yunohost/hooks.d/post_domain_add
+yunohost hook list $action
